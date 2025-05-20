@@ -1,0 +1,28 @@
+{
+  "operaciones": [
+    {
+      "id": 1,
+      "tipo": "insert",
+      "datos": {
+        "nombre": "Ejemplo 1",
+        "valor": 100
+      }
+    },
+    {
+      "id": 2,
+      "tipo": "update",
+      "datos": {
+        "nombre": "Ejemplo 2",
+        "valor": 200
+      }
+    },
+    {
+      "id": 3,
+      "tipo": "delete",
+      "datos": {
+        "nombre": "Ejemplo 3",
+        "valor": 300
+      }
+    }
+  ]
+}
